@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color:#40514E;
+
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+  /*parent */
+}
+
+.middle-container {
+  margin:100px 0;
+}
+
+.bottom-container {}
+
+h1 {
+  font-size:5rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+  line-height: 2;
+}
+
+h2 {
+
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+
+.span {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.footer-link{
+  color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.skill-row
+{
+  width:60%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+p{
+  line-height: 2;
+}
+.myskill
+{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+.copywrite-para
+{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
+hr {
+  border:dotted grey 6px;
+  border-bottom: none;
+  width:4%;
+  margin:100px auto;
+
+}
+.intro
+{
+  width:30%;
+  margin:auto;
+}
+.contact-msg
+{
+  width:40%;
+  margin:40px auto 60px;
+}
+.btn
+{
+  background: #11cdd4;
+font-family: 'Merriweather', serif;
+  color:#ffffff;
+  font-size: 20px;
+  border-radius: 8px;
+  padding:10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover{
+  background: #30e3cb;
+  text-decoration: none;
+}
